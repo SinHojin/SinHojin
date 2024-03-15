@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+AK47
+
 <!--
 **SinHojin/SinHojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
