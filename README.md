@@ -14,7 +14,7 @@ public class Gang {
 }
 ```
 
-***저는 배운 코딩기술을 가지고 청와대와 NASA를 해킹할것입니다***  
+***저는 배운 코딩 기술을 가지고 청와대와 NASA를 해킹할 것입니다***  
 **Contact Me: shj667@naver.com**
     
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
