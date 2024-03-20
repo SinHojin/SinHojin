@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 ```java
 public class Gang {
@@ -14,6 +14,13 @@ public class Gang {
     }
 }
 ```
+
+- 내가 할 줄 아는거!  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)  
+![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)  
+![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)  
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+
 
 <!--
 **SinHojin/SinHojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
