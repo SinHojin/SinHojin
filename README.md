@@ -10,12 +10,12 @@ public class Gang {
             Shouting = AK47 + i;
             System.out.println(Shouting);
         }
-
     }
 }
 ```
 
-- 내가 할 줄 아는거!  
+***느리구나 쓰러지는 것조차***
+    
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-2300ff?style=flat-square&logo=Mysql&logoColor=white">
 
