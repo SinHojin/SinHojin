@@ -1,7 +1,7 @@
 ### 
 
 ```java
-public class Gang {
+public class Grandma {
     public static void main(String[] args) {
         String AK47 = "Ak!";
         String Shouting = "";
