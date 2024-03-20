@@ -16,10 +16,12 @@ public class Gang {
 ```
 
 - 내가 할 줄 아는거!  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)  
-![Javascript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=Javascript&logoColor=%23F7DF1E)  
-![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)  
-![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-2300ff?style=flat-square&logo=Mysql&logoColor=white">
+
+
+
+
 
 
 <!--
