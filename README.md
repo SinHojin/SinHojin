@@ -1,20 +1,5 @@
 ## 안녕하세요!
 
-```java
-public class Grandma {
-    public static void main(String[] args) {
-        String AK47 = "Ak!";
-        String Shouting = "";
-
-        for(int i=1; i<=47; i++){
-            Shouting = AK47 + i;
-            System.out.println(Shouting);
-        }
-    }
-}
-```
-
-***저는 배운 코딩 기술을 가지고 밥 벌어먹고 살고 싶습니다***   
 **📧: shj667@naver.com**
 
 언어:  
